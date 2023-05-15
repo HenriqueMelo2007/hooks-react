@@ -1,0 +1,18 @@
+.div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(0, 34, 255);
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.input {
+  width: 40px;
+  height: 40px;
+  margin-left: 10px;
+}
+
+.hookName {
+  font-family: sans-serif;
+}
