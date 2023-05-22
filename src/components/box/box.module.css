@@ -1,18 +1,23 @@
 .div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: rgb(0, 34, 255);
-  border-radius: 10px;
+  padding: 20px;
+  background-color: #61dafb;
+  border-radius: 15px;
   margin: 20px;
+  width: 300px;
+  height: 150px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
 }
 
 .input {
   width: 40px;
   height: 40px;
-  margin-left: 10px;
+  margin-right: 10px;
 }
 
-.hookName {
-  font-family: sans-serif;
+.info {
+  margin: 10px 0 0 10px;
 }
