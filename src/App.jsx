@@ -11,7 +11,7 @@ export function App() {
         <h1>React Hooks</h1>
       </div>
 
-      <div className="container">
+      <div className="grid-container">
         {hooks.map( ( { hook, info, id } ) => {
         return <Box hook={hook} info={info} key={id}></Box>
         } )}
