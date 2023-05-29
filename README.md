@@ -28,7 +28,7 @@ Clone this repository to your local environment.
 Navigate to the project directory in the terminal.
 Run the command npm install or yarn install to install the dependencies.
 
-### Technologies:
+## Technologies:
 - HTML
 - CSS
 - JavaScript
