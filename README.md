@@ -3,16 +3,15 @@
 
 #### Here are the hooks used in this project:
 
-> useState: Allows adding state to functional components.
-> useEffect: Allows performing side effects in functional components.
-> useContext: Facilitates data sharing between components without the need to manually pass props.
-> useReducer: Manages complex states and updates in a more structured way.
-> useCallback: Memorizes functions to avoid unnecessary re-creations during re-renders.
-> useMemo: Memorizes computed values to avoid unnecessary recalculations.
-> useRef: Provides a mutable reference that persists between re-renders.
-> useImperativeHandle: Allows customizing the value exposed by a parent component when used in conjunction with ref.
-> useLayoutEffect: Similar to useEffect, but synchronous and runs before the screen update.
-> useDebugValue: Allows customizing the value shown for a custom hook in DevTools.
+- > useState: Allows adding state to functional components.
+- > useContext: Facilitates data sharing between components without the need to manually pass props.
+- > useReducer: Manages complex states and updates in a more structured way.
+- > useCallback: Memorizes functions to avoid unnecessary re-creations during re-renders.
+- > useMemo: Memorizes computed values to avoid unnecessary recalculations.
+- > useRef: Provides a mutable reference that persists between re-renders.
+- > useImperativeHandle: Allows customizing the value exposed by a parent component when used in conjunction with ref.
+- > useLayoutEffect: Similar to useEffect, but synchronous and runs before the screen update.
+- > useDebugValue: Allows customizing the value shown for a custom hook in DevTools.
 
 ## Layout:
 
